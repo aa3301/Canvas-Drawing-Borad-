@@ -1,0 +1,93 @@
+*{
+    background-color: antiquewhite;
+
+}
+#green{
+    position:absolute;
+    top:6%;
+    left:23%;
+    width:10px;
+    height:10px;
+    background-color:green;
+}
+#blue{
+    position:absolute;
+    top:6%;
+    left:24%;
+    width:10px;
+    height:10px;
+    background-color:blue;
+}
+#red{
+    position:absolute;
+    top:6%;
+    left:25%;
+    width:10px;
+    height:10px;
+    background-color:red;
+
+}
+#yellow{
+    position:absolute;
+    top:8%;
+    left:23%;
+    width:10px;
+    height:10px;
+    background-color:red;
+}   
+#orange{
+    position:absolute;
+    top:8%;
+    left:24%;
+    width:10px;
+    height:10px;
+    background-color:orange;
+}
+#black{
+    position:absolute;
+    top:8%;
+    left:25%;
+    width:10px;
+    height:10px;
+    background-color:black;
+
+}
+.eraser{
+    position:absolute;
+    top:7%;
+    left:33%;
+}
+#white{
+    position:absolute;
+    top:7%;
+    left:38%;
+    width:15px;
+    height:13px;
+    background-color:white;
+    border:2px solid;
+}
+
+#btn{
+    background-color:#f3ebebe0;
+    cursor:pointer;
+    position:absolute;
+    top:93%;
+    left:15%;
+   border-radius: 6px;
+}   
+#clr{
+    background-color:#f3ebebe0;
+   cursor:pointer;
+   position:absolute;
+   top:93%;
+    left:20%;
+    border-radius: 6px;
+} 
+#btn:hover{
+    background-color: rgb(115, 255, 0);
+}
+#clr:hover{
+    background-color: bisque;
+}
+        
+        
